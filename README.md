@@ -1,4 +1,4 @@
-![PH Banner](Test1/PH%20Banner.png)
+![PH Banner](Test1/PH Banner.png)
 
 
 # 👋 Hi, I’m Karen
