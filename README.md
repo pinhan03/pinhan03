@@ -1,4 +1,5 @@
-![自畫像Banner.png](Test1/自畫像Banner.png)
+![PH Banner](Test1/PH%20Banner.png)
+
 
 # 👋 Hi, I’m Karen
 A graphic designer with experience in e-commerce and advertising. I am now moving towards becoming a front-end developer.
