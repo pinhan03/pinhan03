@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Karen
-- a graphic designer with experience in e-commerce and advertising. I am now moving towards becoming a front-end developer.
-- I aim to combine design and development to create outstanding websites and interactive experiences.
-- By leveraging my aesthetic vision and technical skills, I strive to bring innovative solutions to your projects.
-- 👀 I enjoy experiencing different lifestyles, have a passion for outdoor activities, and love traveling,
-- which has given me a broader international perspective. These interests are the sources of my creativity.
-- 🌱 I’m currently learning HTML／CSS／SCSS／JavaScript／Bootstrap／React／API Integration
-- 📫 How to reach me ai5859132@gmail.com
+# 👋 Hi, I’m Karen
+A graphic designer with experience in e-commerce and advertising. I am now moving towards becoming a front-end developer.
+
+## Goals
+I aim to combine design and development to create outstanding websites and interactive experiences. By leveraging my aesthetic vision and technical skills, I strive to bring innovative solutions to your projects.
+
+## Interests
+👀 I enjoy experiencing different lifestyles, have a passion for outdoor activities, and love traveling, which has given me a broader international perspective. These interests are the sources of my creativity.
+
+## Learning
+🌱 I’m currently learning HTML, CSS, SCSS, JavaScript, Bootstrap, React, and API Integration.
+
+## Contact Me
+📫 How to reach me: ai5859132@gmail.com
 
 ## Languages and Tools
 
