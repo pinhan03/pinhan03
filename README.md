@@ -1,8 +1,8 @@
-![PH-Banner.png](https://github.com/pinhan03/Test1/blob/master/PH-Banner.png)
+![PH-Banner.png](https://github.com/pinhan03/Test1/blob/master/PH_banner.png)
 
 
 
-# 👋 Hi, I’m Karen
+# 👋 Hi, I’m Hedy
 A graphic designer with experience in e-commerce and advertising. I am now moving towards becoming a front-end developer.
 
 ## Goals
@@ -20,23 +20,15 @@ I aim to combine design and development to create outstanding websites and inter
 ## Languages and Tools
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blueviolet?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### Frontend Frameworks/Libraries
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
